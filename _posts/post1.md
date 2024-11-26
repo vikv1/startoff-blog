@@ -12,8 +12,6 @@ ogImage:
 
 first post !!!!
 
-## Lorem Ipsum
-
 # Title
 
 ### Subsections
