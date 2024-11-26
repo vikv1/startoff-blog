@@ -14,6 +14,6 @@ first post !!!!
 
 ## Lorem Ipsum
 
-<h1>Title</h1>
+# Title
 
-<h3>Subsections</h3>
+### Subsections
