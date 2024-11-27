@@ -29,7 +29,7 @@ https://youtu.be/LEurg3JaP2o?si=6cBtKGxjHUZTt6ti
 
 **Motivation:** Gaming is more than just a hobby; it can be a rewarding career. By sharing your passion and skills with others, you can build a dedicated following and create multiple income streams. Don't hesitate to start small and grow your audience over time.
 
-**AI Tool:** Use ==[StreamElements](https://streamelements.com/)== for automated stream management, overlays, and alerts to enhance your streaming experience.
+**AI Tool:** Use ***[StreamElements](https://streamelements.com/)*** for automated stream management, overlays, and alerts to enhance your streaming experience.
 
 
 
