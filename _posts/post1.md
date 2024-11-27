@@ -16,8 +16,7 @@ Looking for fun and easy ways to turn your hobbies into a profitable side hustle
 
 ## 1. Gaming
 
-Gaming is a popular hobby enjoyed by millions around the world. With the rise of streaming platforms and eSports, gaming has become a lucrative career for many.
+Gaming is a popular hobby enjoyed by millions around the world (ALT TEXT: Person playing video games). With the rise of streaming platforms and eSports, gaming has become a lucrative career for many.
 
-![Alt text goes here](Person playing video games)
 
 
