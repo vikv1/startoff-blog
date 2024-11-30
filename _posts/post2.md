@@ -2,9 +2,9 @@
 title: "Learn How to become rich"
 excerpt: "get money."
 coverImage: "/assets/blog/hello-world/cover.jpg"
-date: "2020-03-16T05:35:07.322Z"
+date: "2024-11-30T02:46:07.322Z"
 author:
-  name: shriyans
+  name: Shriyans G.
   picture: "/assets/blog/authors/thumb_shriyanspfp.jpeg"
 ogImage:
   url: "/assets/blog/hello-world/cover.jpg"
