@@ -4,8 +4,8 @@ excerpt: "this the most recent post."
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
 date: "2024-11-27T05:35:07.322Z"
 author:
-  name: vik
-  picture: "/assets/blog/authors/jj.jpeg"
+  name: Shriyans G.
+  picture: "/assets/blog/authors/thumb_shriyanspfp.jpeg"
 ogImage:
   url: "/assets/blog/dynamic-routing/cover.jpg"
 ---
