@@ -1,6 +1,6 @@
 ---
-title: "most recent post"
-excerpt: "this the most recent post."
+title: "9 Hobbies to Make Money in 2024"
+excerpt: "Turn Your Passions to Profits"
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
 date: "2024-11-27T05:35:07.322Z"
 author:
