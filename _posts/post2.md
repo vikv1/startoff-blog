@@ -1,6 +1,6 @@
 ---
-title: "Learn How to become rich"
-excerpt: "get money."
+title: "9 Things Every Business Needs To Be Successful"
+excerpt: "Plus, the tools you can use"
 coverImage: "/assets/blog/hello-world/cover.jpg"
 date: "2024-11-30T02:46:07.322Z"
 author:
