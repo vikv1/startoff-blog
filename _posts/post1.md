@@ -1,8 +1,8 @@
 ---
-title: "9 Hobbies to Make Money in 2024"
+title: "9 Hobbies to Make Money in 2025"
 excerpt: "Turn Your Passions to Profits"
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2024-11-27T05:35:07.322Z"
+date: "2025-11-27T05:35:07.322Z"
 author:
   name: Shriyans G.
   picture: "/assets/blog/authors/thumb_shriyanspfp.jpeg"
@@ -12,7 +12,7 @@ ogImage:
 
 ## **9 Hobbies to Make Money in 2025: Turn Your Passions to Profits**
 
-Looking for fun and easy ways to turn your hobbies into a profitable side hustle or even a full-time business? In this blog, we explore 9 monetizable hobbies that can help you make money in 2024. These hobbies are not only enjoyable but also offer innovative ways to generate income. From gaming to baking, we’ve got you covered with simple, creative ideas and AI tools to streamline the process.
+Looking for fun and easy ways to turn your hobbies into a profitable side hustle or even a full-time business? In this blog, we explore 9 monetizable hobbies that can help you make money in 2025. These hobbies are not only enjoyable but also offer innovative ways to generate income. From gaming to baking, we’ve got you covered with simple, creative ideas and AI tools to streamline the process.
 
 ## 1. Gaming
 
