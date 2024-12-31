@@ -2,7 +2,7 @@
 title: "7 Best Gift Ideas for a Business Bro"
 excerpt: "Plus Specific Product"
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2025-11-27T05:35:07.322Z"
+date: "2024-12-30T05:35:07.322Z"
 author:
   name: Shriyans G.
   picture: "/assets/blog/authors/thumb_shriyanspfp.jpeg"
