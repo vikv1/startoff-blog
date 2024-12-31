@@ -2,7 +2,7 @@
 title: "13 of The Best Niches for Content Creators in 2025"
 excerpt: "Plus the Topics You Should Focus On"
 coverImage: "/assets/blog/preview/cover.jpg"
-date: "2025-12-30T05:35:07.322Z"
+date: "2024-12-30T05:35:07.322Z"
 author:
   name: shriyans
   picture: "/assets/blog/authors/thumb_shriyanspfp.jpeg"
