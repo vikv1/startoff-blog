@@ -1,6 +1,6 @@
 ---
 title: "7 Best Gift Ideas for a Business Bro"
-excerpt: "Plus The Best Product"
+excerpt: "Plus Specific Product"
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
 date: "2025-11-27T05:35:07.322Z"
 author:
