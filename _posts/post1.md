@@ -2,7 +2,7 @@
 title: "9 Hobbies to Make Money in 2025"
 excerpt: "Turn Your Passions to Profits"
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2025-11-27T05:35:07.322Z"
+date: "2024-11-27T05:35:07.322Z"
 author:
   name: Shriyans G.
   picture: "/assets/blog/authors/thumb_shriyanspfp.jpeg"
